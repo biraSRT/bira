@@ -8,9 +8,9 @@ mutebtn.addEventListener("click", vidmute, false);
 function vidmute() {
     if(vid.muted) {
         vid.muted = false;
-        mutebtn.innerHTML = "Mute";
+        mutebtn.innerHTML = "MUTE";
     } else {
         vid.muted = true;
-        mutebtn.innerHTML = "Unmute"
+        mutebtn.innerHTML = "UNMUTE"
     }
 }
