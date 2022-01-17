@@ -38,6 +38,7 @@ button {
   font-size: 21px;
   font-family: 'Luxurious Roman', cursive, sans-serif;
   padding: 5px;
+  margin-bottom: 40px ;
 }
 
 button:hover {
