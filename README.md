@@ -7,3 +7,7 @@ used HTML, CSS and javascript to make a cool landing page with background video 
 - Javascript
 - Git and Github
 - github pages
+
+## Live website
+
+[Link](https://birasrt.github.io/bira/)
